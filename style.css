@@ -1,0 +1,171 @@
+body {
+  background-color: #F9FFA8;
+  margin: 5px;
+  background-size: 80px;
+  background-image: url("images/spoon.png");
+  height: auto;
+ 
+ 
+  }
+
+
+.quicksand {
+ font-family: 'Quicksand', sans-serif;
+}
+
+
+
+#header {
+  position: fixed;
+  background-color: #F3274B;
+  top: 0;
+  right: 0;
+  color: #fff;
+  width: 100%;
+  height: auto;
+}
+
+
+.head_container {
+    width: 873px;
+    overflow: auto;
+    margin: 5px auto;
+}
+
+
+#header ul{
+  list-style-type: none;
+}
+
+  #menu {
+  float: right;
+  font-family: 'Quicksand', sans-serif;
+ }
+
+
+  #header li{
+  float: left;
+  padding-left: 10px;
+  padding-bottom: 10px ;
+  margin-left: 10px;
+  border-left: 1px none #000;
+}
+
+
+#header li a {
+  color: #000;
+}
+
+/************************************************************************************
+ABOUT
+*************************************************************************************/
+
+.paddington{
+padding-top: 30px;
+}
+
+h1 {
+	position: ;
+	left: 40px;
+}
+
+.quicksand_2 {
+	text-align: center;
+
+}
+
+  .About {
+  overflow: auto;
+  margin: 0 auto;
+  width: 800px;
+  padding: 150px 50px 10px;
+  height: 100%;
+  min-height: 2500px;
+  background-color: #fff;
+  border-left: 2px none #000;
+  border-right: 2px none;
+  font-family: 'Quicksand', sans-serif;
+}
+
+#logo {
+	 /* background: #fff url("images/paddington.jpg") no-repeat 0 0;*/
+  background-size: 25%;
+  height: auto;
+  border-bottom: 1px solid ;
+ 
+
+}
+
+
+  #logotext {
+  	font-size: 30px;
+  	padding-left: 40px;
+  }
+
+  .playfair-font {
+    padding-top: 150px;
+  }
+
+
+/************************************************************************************
+Store
+*************************************************************************************/
+
+#gallery-inner {
+  
+  width: 641px;
+  margin: 20px auto;
+  float: left;
+  overflow: auto;
+
+
+}
+
+.gallery-element {
+  float: left;
+  margin: 5px;
+}
+
+.gallery-element img {
+    width: 150px;
+
+}
+
+
+/************************************************************************************
+Contact
+*************************************************************************************/
+
+
+
+.contact {
+  text-align: center;
+  padding-top: -400px;
+  position: ;
+  font-family: 'Quicksand', sans-serif;
+ 
+  
+}
+.contact h3 {
+	font-size: 40px;
+  margin-top: -600px;
+}
+
+.blue_playfair-font{
+	position: relative;
+	bottom: 20px;
+}
+
+
+
+#bottom-footer {
+  font-size: 10px;
+  text-align: right;
+  padding-right: 100px;
+  padding-top: 300px;
+}
+
+a {
+	list-style-type: none;
+	text-decoration: none;
+}
